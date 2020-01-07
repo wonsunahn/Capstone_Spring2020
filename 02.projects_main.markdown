@@ -1,0 +1,72 @@
+---
+layout: page
+title: CS1980/1640
+permalink: /CS1980_1640/
+---
+
+## Project Assignments
+[Check the assignments here.]({{site.baseurl}}/project_assignments)
+
+## Schedule
+
+[Check the schedule here]({{site.baseurl}}/projects_schedule).
+
+
+## What are the expectations for the cs1640, cs1980 project?
+
+We expect the project to be doable in 15 weeks. We want projects that touch on at least three areas of computer science (for example, databases, web programming, and operating systems). In the end, we hope the students create something that can be usable. The project must be designed so that within 2-3 weeks the students understand the problem and can begin to make progress towards the goal.  Students are typically taking a full-load of classes and dedicate about 10 hours per week (each team member). An example problem: one term, one team was assigned to modify a large program. It took more than half the semester before the team and the mentor became aware that the project wasn't doable in the time frame with the amount of support given to the team.
+
+All students shall submit a paper on their project, as well as give an approximately 10 - 15 minute presentation on what they have done.  For students doing group projects, only one paper should be submitted per group and one presentation will be given per group.
+
+The first half of the class will include a couple of lectures on software engineering, for the first few lectures, followed by classes with a mix of talks and panel discussions.
+The second half shall be used as time for meeting with groups / sprint retrospectives / planning / etc..
+
+Project students will also need to submit some other assignments.
+
+
+## Projects
+
+[Follow this link to find a list of all projects]({{site.baseurl}}/projects)
+
+## Details on Project Assignments
+
+### Proposal Paper
+  * [See Proposal]({{site.baseurl}}/project_proposal)
+
+### Midterm Update
+  * [See Midterm Update]({{site.baseurl}}/project_midterm_update)
+  * Includes informal presentation to the class
+
+### Final Project Presentation
+  * [An approximately ten to fifteen minute talk and (if possible) demo of the software]({{site.baseurl}}/project_presentation)
+  * Include features and technical decisions
+
+### Final Project Paper
+  * [See Final Paper]({{site.baseurl}}/project_final_paper)
+
+## Details on Project Development
+
+The goal of this course is to develop a project, from start to finish, using modern software engineering tools and techniques.  The final project should be _well-written, well-tested, and well-documented_.
+
+Unless dictated otherwise by the customer, work should be done using git and GitHub or GitLab.  Work should be done in a private repository, and I should be added as a collaborator (username is "luisfnqoliveira" on both sites).  Please sign up for a student developer pack (which includes free private repositories, along with other free software) here: https://education.github.com/pack
+
+Unless dictated otherwise by the customer, the project will be developed using the Agile/Scrum software design methodology.  We will discuss this more in class.  One of the key tenets is that there is always some "working" version of the software, even if it does not include all of the features.  This means that at any point, you should have a working version of the software to show customers (and professors)!
+
+We will consider every other class meeting the end of each sprint.  During this time, we will spend some time doing a retrospective in your groups - meeting for thirty minutes or so, in-person, to determine what went well with the last sprint and what could go better.  You will also come up with a plan for the next sprint.  Professor Luis Oliveira will be available at the end of each lecture to discuss the path forward with each group.
+
+Since student schedules are often hard to reconcile, I recommend you use a chat application such as Slack to stay in touch with each other, even when you cannot meet in person.
+
+As this is a capstone course, you are expected to be self-motivated and independent.  This may mean learning a new language, framework, architecture, etc.  Professional software engineers are often expected to learn these things independently, and you should be prepared to do so as well.  If you are unfamiliar with where to find training materials or information for a particular subject, you may discuss it with the instructor, but the onus is entirely on you to learn anything additional you need to know to complete the project.
+
+## Typical timeframes (in weeks)
+  * week 1 - project pitches
+  * week 2 - students interact with mentors, rank projects, receive assignment
+  * week  3 - students hand in page proposal
+  * week ~8 - students give a midterm presentation of progress with a demo
+  * weeks 3-12 - students carryout projects; talks and meetings every many classes
+  * weeks 13-15 - students give final presentations
+
+
+## Schedule
+
+[Find the schedule here]({{site.baseurl}}/projects_schedule)

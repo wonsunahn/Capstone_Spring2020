@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+  font-size: 40px;
+}
+
+.answer {
+  color: red;
+  white-space: normal;
+}
+
+table td:first-child {
+  white-space: nowrap;
+}
+
+.truth {
+  th {
+    white-space: nowrap;
+  }
+}
+
+.question {
+  background-color: #a7e0a7;
+  td:first-child {
+    white-space: normal;
+  }
+}
+
+
+.blinking{
+    animation:blinkingText 2s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #f00;    }
+    50%{    color: #a00;  }
+    100%{   color: #f00;    }
+}

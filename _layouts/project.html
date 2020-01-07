@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% if page.solution %}
+<h1>{{ page.title }}: Solution</h1>
+{% else %}
+<h1>{{ page.title }}: {{ page.subtitle }}</h1>
+
+<p>
+<strong>Released</strong>: {{ page.released }}
+</p>
+
+{% if page.extended %}
+<p>
+<strong>Due</strong>: <s>{{ page.due }}</s>
+</p>
+
+<p>
+<strong>Extended</strong>: {{ page.extended }}
+</p>
+{% else %}
+<p>
+<strong>Due</strong>: {{ page.due }}
+</p>
+{% endif %}
+
+<p>
+{{ page.summary }}
+</p>
+{% endif %}
+
+{{ content }}

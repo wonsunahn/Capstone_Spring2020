@@ -1,0 +1,67 @@
+==+== =====================================================================
+==+== Begin Review
+==+== Replace items between parentheses () with your actual responses.
+
+==+== Reviewer ID (no name please): 
+
+(Your reviewer ID here)
+
+==+== Presenter Name: 
+
+(Presenter name here)
+
+==+== A. Presentation summary.  Write a 1-2 sentence summary of the work done
+by the presenter (worked with whom on what project).
+
+(Your summary here)
+
+==+== B. Overall score
+==-== Choices:
+==-==    1. Needs improvement
+==-==    2. Weak
+==-==    3. Satisfactory
+==-==    4. Solid
+==-==    5. Outstanding
+==-== Enter the number of your choice:
+
+(Your choice here)
+
+==+== C. Slide organization (Introduction, Elaboration, Conclusion)
+==-== Choices:
+==-==    1. Missing critical details
+==-==    2. All required info is in there but disorganized
+==-==    3. Satisfactory organization
+==-==    4. Good organization, each slide has focus
+==-==    5. Extremely easy to follow, good visual cues
+==-== Enter the number of your choice:
+
+(Your choice here)
+
+==+== D. Presenter oral delivery
+==-== Choices:
+==-==    1. Unprepared to give presentation
+==-==    2. Reads from slides, no eye contact
+==-==    3. Satisfactory delivery
+==-==    4. Speaks to audience, good eye contact
+==-==    5. Succeeds in creating a rapport with audience
+==-== Enter the number of your choice:
+
+(Your choice here)
+
+==+== E. Demonstration of technical competence
+==-== Choices:
+==-==    1. Demonstrates no knowledge of work done
+==-==    2. Can explain work done but no confidence in technical details
+==-==    3. Satisfactory competence
+==-==    4. Can explain work done with confidence in technical details
+==-==    5. Can explain technical details and larger significance of work done
+==-== Enter the number of your choice:
+
+(Your choice here)
+
+==+== F. Comments for presenter (positive as well as negative feedback please)
+
+(Your comments here)
+
+==+== End Review
+==+== =====================================================================
