@@ -36,6 +36,6 @@ You should have gotten your respective reviewer IDs by individual email.
 
 ## Final paper organization
 
-Write a 8 - 12 page paper on your internship experience.  For details, see [Final Paper]({{site.baseurl}}/final_paper) on this website.  The paper should be submitted to courseweb by midnight of 6 DECEMBER.  PDF format is preferred.
+Write a 8 - 12 page paper on your internship experience.  For details, see [Final Paper]({{site.baseurl}}/final_paper) on this website.  The paper should be submitted to courseweb by midnight of 17 APRIL.  PDF format is preferred.
 
 [Please read these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before writing the report.  Most of the things I said about presentations is also relevant to the report, and also there is an example outline of the report on the final slide.  Feel free to use your own organization if you'd like but it should contain all the major components.
