@@ -20,6 +20,8 @@ Note: Some of you may be working on private projects. Please file an issue on th
 
 ### NetApp - Develop a kernel extension for an Open Source File System [download]({{site.baseurl}}/projects/files/NetApp-SOS-Pitt-Capstone-Abstract-Spring-2020.pdf)
 
+[Presentation]({{site.baseurl}}/projects/files/FS Pitt Capstone - Spring 2020 Abstract.pptx)
+
 **Project Background**
 
 Embedded and distributed systems focused projects are not commonly provided at a bachelor’s level Capstone project. Our goal is to provide an opportunity for aspiring embedded systems engineers to gain experience in this area utilizing an open source embedded file system as a base for developing a specific kernel extension.
@@ -47,6 +49,9 @@ Over the course of this Capstone project, students will accomplish the following
 
 ### NetApp - Extending a Microservice Architecture and Developing a Test Framework [download]({{site.baseurl}}/projects/pdfs/Spring 2020 Capstone Abstract.pdf)
 
+[Presentation]({{site.baseurl}}/projects/files/MS Spring 2020 Capstone.pptx)
+
+
 **Project Background**
 The microservice model is commonly associated with the “back-end” of an application. In this style of architecture, the logic behind an application is composed from independent and loosely coupled microservice pieces. A shopping website, for instance, might have a microservice for retrieving inventory details, another microservice for managing the shopping cart, and yet another microservice for payment processing. Each piece can be developed independently, and then composed together to form the larger application. This is one of the many benefits of the microservice architecture as they are independently deployable.
 In order to make sure the highest quality software is delivered; it needs to be tested while it is being developed. For example, if a new microservice is added to the application, we need to run some integration testing to make sure nothing has regressed with the addition of a new microservice. This is especially important when multiple teams are working on the application.
@@ -63,7 +68,7 @@ Over the course of this Capstone project, students will accomplish the following
 * Learn about the REST and microservices architectures
 
 * Team Size: 4 students
-* POC: Tim Banyas
+* POC: Tim Banyas and Twesha Mitra
 
 ### INTALERE - Modernize Hospital Discharge Data Submission Application [download]({{site.baseurl}}/projects/files/Intalere Capstone Project.pdf)
 
@@ -206,6 +211,8 @@ Desired Skills:
 
 ### Web-based Interactive Degree Pathways
 
+[Presentation]({{site.baseurl}}/projects/files/Interactive Degree Map Capstone Project.pptx)
+
 Goal: Design a web-based, interactive tool to help students visualize and explore SCI degree pathways based on their academic interests and personal timeline
 Background: Currently, the most common tool for degree planning is a student’s degree audit or AAR, which can be accessed in Peoplesoft. This tool has numerous limitations, however. It is hard to read, does not show the prereq/coreq structure of the classes, and is not linked to course descriptions. Many universities create flow charts as a tool to recommend a timeline and flow of classes, but they also lack interactivity and often are visually confusing.
 Solution: We would like a tool that is visually clear, captures the prereqs/coreqs between courses,
@@ -265,6 +272,9 @@ We are looking to study these utility, privacy, and energy tradeoffs across diff
 
 ### A web interface to enable the visualization of fMRI data
 
+[Presentation]({{site.baseurl}}/projects/files/fmri_portal.pdf)
+
+
 We have recently been performing multi-study analyses of the development of functional brain connectivity through adolescence to understand how brain networks evolve and reconfigure in this time period. This field has had to overcome a lot of methodological challenges due to artifacts and small effect sizes that have led to an interest in multi-site, “big data" studies and replication through open science initiatives. To this end, we been working on analyses combining multiple large, longitudinal studies comprising thousands of fMRI scans of adolescents.  From these, we are interested in charting the developmental trajectories of every functional *connection* in the brain (e.g., the strength of functional interactions between every pair of regions).  This means we have a large number of connections (50k-500k depending on the density of the sampling applied), each with a developmental trajectory as well as various statistical and diagnostic assessments.
 
 The goal of the project would be to build a web interface to allow visualization of this data, both for performing exploratory analyses (e.g., for people interested in a particular region or regions, allow them to quickly identify its developmental role and timing), as well as replication (e.g., for people performing their own developmental studies, determine whether overall patterns replicate in a much larger, multi-site sample).
@@ -314,6 +324,10 @@ We would like a website that is the central hub for teachers to access the intro
 * POC: Rebecca Gonda
 
 ### Benos Lab - Smartphone app
+
+[Presentation]({{site.baseurl}}/projects/files/Takis Capstone_pres.20200110.pdf)
+
+
 Machine learning is become an important tool nowadays to analyze the complex and large biomedical and clinical datasets that are available.  At the same time, new data types are generated from smartphones and other apps that can transform the field of medicine.  These data too, will need to be integrated and analyzed under the same framework with the standard clinical measurements.
 
 The Benos Lab is developing probabilistic graphical models (a subcategory of machine learning algorithms), specifically designed to analyze complex datasets with a variety of data types.  We have applied those algorithms successfully to a variety of clinical problems including (a) develop a classifier to reduce the number of false positive findings in low dose CT scan screenings for lung cancer, (b) identify biomarkers indicative of combination therapy in cancer and (c) identify microbiota and clinical factors affecting the development of pneumonia in ICU patients.
