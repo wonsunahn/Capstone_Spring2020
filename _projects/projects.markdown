@@ -105,20 +105,26 @@ Students can choose programming language and development frameworks that best fi
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
-<!--
-###
-Project Summary [Check link for full description]
+
+### InvolveMINT
 InvolveMINT is planning on creating a Social Resume - a central digital repository and profile that catalogues all work, associated clearances, certifications, clearances, background checks, etc. Many organizations require certain types of certifications or clearances to work on their project. However, individuals with the desire to serve may not have the required clearances or certifications, or have received said certifications, but do not have a central repository for documentation. This presents a barrier, especially  for individuals with low-incomes, to getting involved and supporting the organization and the challenges they address.
 
 Starting with the most common clearances and certifications required by nonprofit organizations, involveMINT’s goal is to chronicle, automate, and then securely store said clearance/certification in a Social Resume as central repository to the furthest extent possible to make it easier for income scarce individuals to provide the required documentation to partake in service projects.
 
 Development stack:
 Database - PostgreSQL
-Backend - Ruby on Rails
-Front-End - React
 Deployment - Heroku
 Authentication - Auth0
--->
+Frontend - Ionic/Angular
+Frontend state management solution - Akita
+Backend - Firebase
+
+* POC: Daniel Little
+* Team Size: 3 students
+
+
+**Note: NDA and/or IP agreement will need to be signed for this project.**
+
 ## CS Faculty Projects
 
 
@@ -241,9 +247,16 @@ We are looking to study these utility, privacy, and energy tradeoffs across diff
 * POC: Stephen Lee
 
 
+### Professor Bruce Childers Projects
 
-### Takis Benos
+1. An AI-driven Outlook plug-in to schedule meetings <br> This project involves creating an AI-driven Outlook plug-in that can automatically suggest meeting times for people that request meetings.  The Scheduling-Bot could examine historical calendar information to learn preferences, could pull in teaching schedules, etc., to figure out when to suggest meetings, the location.
 
+
+
+2. Create a Voting System for SCI <br> SCI has many committees, which are formed by election. This capstone is to create an online, cloud-hosted platform that allows individuals to (a) specify preferences, with varying rank of choice, to stand for election on various committees; (b) automatically matches preferences to create ballots for committees under constraints (e.g., maximum of 2 people on a ballot); (c) solicits votes among constituents; (d) select winning candidates according to rank choice voting (RCV); (e) delivers a report of voting outcome, including voting rounds with RCV.<br>The project will involve web development, cloud hosting, and algorithm implementation (for matching to create ballots and to conduct the vote with RCV).
+
+* Team size: 2-3 Students
+* POC: Bruce Childers
 
 
 ## Bioinformatics-Focused Projects
@@ -299,3 +312,29 @@ We would like a website that is the central hub for teachers to access the intro
 
 * Team size: 3-4 Students
 * POC: Rebecca Gonda
+
+### Benos Lab - Smartphone app
+Machine learning is become an important tool nowadays to analyze the complex and large biomedical and clinical datasets that are available.  At the same time, new data types are generated from smartphones and other apps that can transform the field of medicine.  These data too, will need to be integrated and analyzed under the same framework with the standard clinical measurements.
+
+The Benos Lab is developing probabilistic graphical models (a subcategory of machine learning algorithms), specifically designed to analyze complex datasets with a variety of data types.  We have applied those algorithms successfully to a variety of clinical problems including (a) develop a classifier to reduce the number of false positive findings in low dose CT scan screenings for lung cancer, (b) identify biomarkers indicative of combination therapy in cancer and (c) identify microbiota and clinical factors affecting the development of pneumonia in ICU patients.
+
+We would like to expand the data that are typically analyzed by using smartphone apps to collect new data types.  In that respect, we are looking for a highly motivated student, with expertise in developing  such apps to work with us and UPMC clinicians in developing such tools.
+
+For more information on Benos Lab activities: http://www.benoslab.pitt.edu/
+
+* Team size: 3-4 Students
+* POC: Takis Benos
+
+
+### Applying Localized Feature Selection Based on Scatter Separability on RNA sequencing
+
+Localized Feature Selection Based on Scatter Separability (LFSBSS) is a cluster-wise feature selection algorithm for unsupervised learning.
+Unlike global feature selection methods where the uniqueness of subgroups is ignored, LFSBSS allows the feature set to optimally adapt to local variations in the sample space.
+This locality property particularly suits the need for identifying marker genes used for cell type identification in single cell RNA sequencing studies.
+
+However, the current implementation of LFSBSS takes too much time iterating feature selection and clustering processes especially when it needs to take a large-scale data.
+This will be problematic for single cell RNA sequencing data analysis, since they usually comprise thousands of cells with hundreds of genes.
+We will implement an algorithm that systematically speeds up the algorithm by 1) prioritizing and grouping genes to use and by 2) modifying the frequency of feature selection and clustering in the function.
+
+* Team size: 3 Students
+* POC: Hyun Jung Park
