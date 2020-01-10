@@ -10,7 +10,7 @@ You have five responsibilities this term:
 
 1. Give a 15 minute presentation on the work that you did during your internship or directed research with 5 minutes q&a.  See below Presentation organization.
 
-2. Write a final paper.  See [Final paper organization](##Final paper organization).
+2. Write a final paper.  See [Final paper organization](##final-paper-organization).
 
 3. Fill in an anonymous peer review form for 5 presentations assigned to you.  See below Peer review organization.
 
