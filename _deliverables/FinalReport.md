@@ -14,8 +14,6 @@ The paper must be 8 - 12 pages in length, double-spaced, using a relatively stan
 
 Please ensure that your name as well as the name of the project you worked on is listed, along with your faculty advisor (whoever signed your Faculty Learning Agreement, or your research advisor).
 
-If you had an internship, you must turn in an individual paper; if in a group, please turn in a group paper.
-
 ## DETAILS
 
 The final paper should describe what you did for the capstone, and how you did it.  This will obviously vary dramatically based on if you did a research project or an internship.  Thus, it is difficult to give a broad-enough description of what is required for all of these.  Consider the following as a list of possible topics to discuss, not as a checklist.
@@ -42,8 +40,27 @@ The final paper should describe what you did for the capstone, and how you did i
 
 In general, what I would like to see is a good understanding of what you did, and what you learned, doing the work for the capstone.  If you worked on anything sensitive (e.g., for a government contractor or private data for a company), you do not need to refer to it in your write-up.  If there is any doubt, you may wish to show your supervisor the paper so that they may review it before turning it in.
 
-[Please read these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) if you want more hints.  Most of the things I said about presentations is also relevant to the report, and also there is an example outline of the report on the final slide.  Feel free to use your own organization if you'd like but it should contain all the major components.
+## Example Organization
+
+1. Objectives
+    * This project objectives were…
+  
+1. Approach
+    * I solved the problem by using X and Y technique (This is going to be the meat of your report.) 
+    * Communication with client was done like so
+    
+1. Completion
+    * Fulfilled initially set objectives 1 through 5
+    * Did not complete 6 through 7 due to a change of requirements
+    * Could not complete 8 because of technical difficulties
+
+1. Issues and reflections
+    * Using tool X was a good decision because…
+    * Using tool Y was a bad decision because…
+    * Communicated with stakeholders in this way; It did(n’t) work because…
+
+This is only an example organization.  Feel free to use your own organization if you'd like but it should contain all the major components.
 
 ## Other
 
-Please feel free to email me or come to office hours to discuss any problems you have.
+Please feel free to email me or come to office hours to discuss any questions you have.  I encourage you to submit your final paper early on to get timely feedback so that you have time to resubmit.  The courseweb link allows unlimited submissions.
