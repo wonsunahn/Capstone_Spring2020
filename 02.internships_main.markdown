@@ -20,7 +20,7 @@ You have five responsibilities this term:
 
 ## Presentation organization
 
-1. All students must schedule a presentation date on this [Doodle Poll] (TO BE LINKED) until next THURSDAY (16 JANUARY). You are to enter your name and select a single preferred date. There are 2 slots per day and if the slots fill up, you will have to choose another day. It is first come first serve so if you want a particular date, please sign up as early as possible.
+1. All students must schedule a presentation date on this [Doodle Poll] (TO BE LINKED) until next WEDNESDAY (15 JANUARY) midnight. You are to enter your name and select a single preferred date. There are 2 slots per day and if the slots fill up, you will have to choose another day. It is first come first serve so if you want a particular date, please sign up as early as possible.
 2. Please review [lectures on presentations] (TO BE LINKED) before giving your presentation.  You might also want to look at [the Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The review form will remind you of what you are being assessed on.
 3. Presenters must submit their presentation slides to courseweb the day before, by Thursday midnight.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.
 
