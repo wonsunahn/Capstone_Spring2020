@@ -4,13 +4,13 @@ title: Midterm Update
 permalink: project_midterm_update
 ---
 # CS CS1980/CS1640 CAPSTONE
-Fall Semester 2019
+Spring Semester 2020
 
 ## MIDTERM UPDATE PAPER AND PRESENTATION
 
-This proposal paper is required for all students in the *project* sections of the Capstone (CS1980, CS1640)
+This proposal paper is required for all students in the *project* sections of the Capstone (CS1980 and CS1640)
 
-It is not required for students in the internship or research sections (CS1900, CS1950).
+It is not required for students in the internship or research sections (CS1900 and CS1950).
 
 The midterm presentation is a short (5 - 10 minute) explanation of what you have done do far and what you are planning to do.  Except in extraordinary circumstances, you MUST show a working version of the software (although it will not, of course, be feature-complete).  Such circumstances may include NDA other customer-set limitations or the work being research-based.  Other exceptions will be handled and approved on a case-by-case basis (ask me in advance).
 

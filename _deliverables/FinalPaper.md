@@ -5,7 +5,7 @@ permalink: project_final_paper
 ---
 
 # CS CS1980/CS1640 CAPSTONE
-Fall Semester 2019
+Spring Semester 2020
 
 ## FINAL PAPER
 

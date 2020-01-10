@@ -5,13 +5,13 @@ permalink: project_proposal
 ---
 
 # CS CS1980/CS1640 CAPSTONE
-Fall Semester 2019
+Spring Semester 2020
 
 ## PROPOSAL PAPER
 
-This proposal paper is required for all students in the *project* sections of the Capstone (CS1980, CS1640m and BIOSC1640).
+This proposal paper is required for all students in the *project* sections of the Capstone (CS1980 and CS1640).
 
-It is not required for students in the internship or research sections (CS1900, CS1950).
+It is not required for students in the internship or research sections (CS1900 and CS1950).
 
 ## FORMATTING REQUIREMENTS
 
