@@ -66,13 +66,13 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 12 (Week of 23 MAR)
 
-* Spisak, Joshua
+* Joshua Spisak
 * TBD
 
 ## WEEK 13 (Week of 30 MAR)
 
-* Sangani, Praneeth
-* Li, Tianyi
+* Praneeth Sangani
+* Tianyi Li
 
 ## WEEK 14 (Week of 6 APR)
 
