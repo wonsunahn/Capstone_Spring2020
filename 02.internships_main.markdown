@@ -45,6 +45,7 @@ Just like any class, you are expected to attend regularly.  Please notify me at 
 ## Class Resources
 
 * [Doodle Poll] (TO BE LINKED)
+* [Course Schedule]({{site.baseurl}}/internship_presentation_schedule)
 * [Week 2 Lecture on Presentations] (TO BE LINKED)
 * [Peer Review Form]({{site.baseurl}}/internships/review_form.txt)
 * [Peer Review Tips]({{site.baseurl}}/review_tips)
