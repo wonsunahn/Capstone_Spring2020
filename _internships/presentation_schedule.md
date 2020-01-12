@@ -12,78 +12,78 @@ The presentations will be given in the order they are listed on the particular d
 
 [Please review the slides]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and also [these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before giving your presentation.
 
-## WEEK 1 (Week of 6 JAN)
+## WEEK 1 (10 JAN)
 
 * Introduction on syllabus and course requirements
 
-## WEEK 2 (Week of 13 JAN)
+## WEEK 2 (17 JAN)
 
 * Lecture on giving a good presentation
 
-## WEEK 3 (Week of 20 JAN)
+## WEEK 3 (24 JAN)
   
 * TBD
 * TBD
 
-## WEEK 4 (Week of 27 JAN)
+## WEEK 4 (31 JAN)
 
 * TBD
 * TBD
 
-## WEEK 5 (Week of 3 FEB)
+## WEEK 5 (7 FEB)
 
 * TBD
 * TBD
 
-## WEEK 6 (Week of 10 FEB)
+## WEEK 6 (14 FEB)
 
 * TBD
 * TBD
 
-## WEEK 7 (Week of 17 FEB)
+## WEEK 7 (21 FEB)
 
 * TBD
 * TBD
 
-## WEEK 8 (Week of 24 FEB)
+## WEEK 8 (28 FEB)
 
 * TBD
 * TBD
 
-## WEEK 9 (Week of 2 MAR)
+## WEEK 9 (6 MAR)
 
 * TBD
 * TBD
 
-## WEEK 10 (Week of 9 MAR)
+## WEEK 10 (13 MAR)
 
 * Spring Recess (NO CLASS)
 
-## WEEK 11 (Week of 16 MAR)
+## WEEK 11 (20 MAR)
 
 * TBD
 * TBD
 
-## WEEK 12 (Week of 23 MAR)
+## WEEK 12 (27 MAR)
 
 * Joshua Spisak
 * TBD
 
-## WEEK 13 (Week of 30 MAR)
+## WEEK 13 (3 APR)
 
 * Praneeth Sangani
 * Tianyi Li
 
-## WEEK 14 (Week of 6 APR)
+## WEEK 14 (10 APR)
 
 * Benjamin Nathanson
 * James Pickering
 
-## WEEK 15 (Week of 13 APR)
+## WEEK 15 (17 APR)
 
 * Qi Xue
 * Nolan Weinlader
 
-## WEEK 16 (Week of 20 APR)
+## WEEK 16 (24 APR)
 
 * Finals week (NO CLASS)
