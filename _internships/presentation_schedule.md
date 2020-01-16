@@ -27,7 +27,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 4 (31 JAN)
 
-* TBD
+* Yichen Li
 * TBD
 
 ## WEEK 5 (7 FEB)
@@ -48,7 +48,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 8 (28 FEB)
 
 * James Kaatz
-* Yichen Li
+* Joshua Spisak
 
 ## WEEK 9 (6 MAR)
 
@@ -66,7 +66,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 12 (27 MAR)
 
-* Joshua Spisak
+* Sonia Cromp
 * Tula Sah
 
 ## WEEK 13 (3 APR)
