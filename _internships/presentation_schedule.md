@@ -22,8 +22,8 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (24 JAN)
   
-* TBD
-* TBD
+* Kevin Kusi
+* Mathew Varughese
 
 ## WEEK 4 (31 JAN)
 
@@ -32,28 +32,28 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 5 (7 FEB)
 
-* TBD
-* TBD
+* Leah Mooney
+* Alan Shen
 
 ## WEEK 6 (14 FEB)
 
-* TBD
-* TBD
+* Beck Fuga
+* Erin O'Rourke
 
 ## WEEK 7 (21 FEB)
 
-* TBD
-* TBD
+* Shayon Sinha
+* Mitch Kelly
 
 ## WEEK 8 (28 FEB)
 
-* TBD
-* TBD
+* James Kaatz
+* Yichen Li
 
 ## WEEK 9 (6 MAR)
 
-* TBD
-* TBD
+* Nikhilesh Singh
+* Jonathan Zdobinski
 
 ## WEEK 10 (13 MAR)
 
@@ -61,13 +61,13 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 11 (20 MAR)
 
-* TBD
-* TBD
+* Riley Bean  
+* Anna Smith
 
 ## WEEK 12 (27 MAR)
 
 * Joshua Spisak
-* TBD
+* Tula Sah
 
 ## WEEK 13 (3 APR)
 
