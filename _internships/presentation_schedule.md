@@ -64,8 +64,8 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 12 (27 MAR)
 
-* Sonia Cromp
-* Tula Sah
+* Benjamin Nathanson
+* James Pickering
 
 ## WEEK 13 (3 APR)
 
@@ -74,8 +74,8 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (10 APR)
 
-* Benjamin Nathanson
-* James Pickering
+* Sonia Cromp
+* Tula Sah
 
 ## WEEK 15 (17 APR)
 
