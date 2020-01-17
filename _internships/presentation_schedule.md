@@ -8,8 +8,6 @@ Note: There will be a maximum of NINE internship/research presentations per clas
 
 The presentations will be given in the order they are listed on the particular date.
 
-## 6 SEP - LECTURE: PRESENTATION AND FEEDBACK
-
 ## WEEK 1 (10 JAN)
 
 * Introduction on syllabus and course requirements
