@@ -14,8 +14,8 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 |--------------+-----------------------------------------------------------------|
 | January 10  | Introduction and Project selection |
 | January 17  | [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) - project begins |
-| January 24  | Presentation 2 - Project proposal due (one per group) |
-| January 31  | Presentation 3 - Retrospective 1 |
+| January 24  | Presentation 2 |
+| January 31  | Presentation 3 - Project proposal due (one per group) - Retrospective 1 |
 | February 7  | [Presentation 4]({{site.baseurl}}/lectures/lecture-on-presentations.pdf) |
 | February 14 | [Presentation 5]({{site.baseurl}}/lectures/Writing a document.pdf) - Retrospective 2 |
 | February 21 | Talk TBD |
