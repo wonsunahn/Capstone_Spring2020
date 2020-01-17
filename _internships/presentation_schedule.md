@@ -10,15 +10,13 @@ The presentations will be given in the order they are listed on the particular d
 
 ## 6 SEP - LECTURE: PRESENTATION AND FEEDBACK
 
-[Please review the slides]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and also [these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before giving your presentation.
-
 ## WEEK 1 (10 JAN)
 
 * Introduction on syllabus and course requirements
 
 ## WEEK 2 (17 JAN)
 
-* Lecture on giving a good presentation
+* [Lecture on giving a good presentation]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
 
 ## WEEK 3 (24 JAN)
   
