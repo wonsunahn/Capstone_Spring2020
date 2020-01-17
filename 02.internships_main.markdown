@@ -20,7 +20,7 @@ You have five responsibilities this term:
 
 ## Presentation organization
 
-1. All students must schedule a presentation date on this [Doodle Poll](https://doodle.com/poll/5rkfrh8qa49khtea) until next WEDNESDAY (15 JANUARY) midnight. You are to enter your name and select a single preferred date. There are 2 slots per day and if the slots fill up, you will have to choose another day. It is first come first serve so if you want a particular date, please sign up as early as possible.
+1. Doodle poll is now over.  Refer to the [Final Schedule]({{site.baseurl}}/internship_presentation_schedule).
 2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  You might also want to look at [the Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The review form will remind you of what you are being assessed on.
 3. Presenters must submit their presentation slides to courseweb the day before, by Thursday midnight.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.
 
@@ -44,9 +44,10 @@ Just like any class, you are expected to attend regularly.  Please notify me at 
 
 ## Class Resources
 
-* [Doodle Poll](https://doodle.com/poll/5rkfrh8qa49khtea)
-* [Course Schedule]({{site.baseurl}}/internship_presentation_schedule)
+* [Doodle Poll](https://doodle.com/poll/5rkfrh8qa49khtea) --- Defunct.  Refer to the final schedule.
+* [Final Schedule]({{site.baseurl}}/internship_presentation_schedule)
 * [Week 2 Lecture on Presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
+* [Peer Review Assignment] (TO BE LINKED)
 * [Peer Review Form]({{site.baseurl}}/internships/review_form.txt)
 * [Peer Review Tips]({{site.baseurl}}/review_tips)
 * [Final Paper Instructions]({{site.baseurl}}/final_paper)
