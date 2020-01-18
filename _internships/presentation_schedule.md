@@ -24,7 +24,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 4 (31 JAN)
 
 * Yichen Li
-* TBD
+* Anna Smith
 
 ## WEEK 5 (7 FEB)
 
@@ -58,7 +58,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 11 (20 MAR)
 
 * Riley Bean  
-* Anna Smith
+* Yuxin Zhang
 
 ## WEEK 12 (27 MAR)
 
