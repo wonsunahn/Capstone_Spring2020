@@ -22,17 +22,17 @@ You have five responsibilities this term:
 
 1. Doodle poll is now over.  Refer to the [Final Schedule]({{site.baseurl}}/internship_presentation_schedule).
 2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  You might also want to look at [the Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The review form will remind you of what you are being assessed on.
-3. Presenters must submit their presentation slides to courseweb the day before, by Thursday midnight.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.
+3. Presenters must submit their presentation slides to courseweb the day before, by **Thursday midnight**.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.
 
 ## Final paper organization
 
-Write a 8 - 12 page paper on your internship experience.  For details, see the [Final Paper Instructions]({{site.baseurl}}/final_paper).  PDF format is preferred.  The paper should be submitted to courseweb by midnight of 17 APRIL.  Please consider submitting the paper earlier to get feedback.
+Write a 8 - 12 page paper on your internship experience.  For details, see the [Final Paper Instructions]({{site.baseurl}}/final_paper).  PDF format is preferred.  The paper should be submitted to courseweb by midnight of **17 APRIL**.  Please consider submitting the paper earlier to get feedback.
 
 Most of the things I said about presentations is also relevant to the report, and also there is an example outline of the report on the final slide.  Feel free to use your own organization if you'd like but it should contain all the major components.
 
 ## Peer review organization
 
-Fill in an anonymous peer review form for 5 presenters assigned to you.  Please use the [Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The form should be submitted to courseweb by Sunday midnight the day after the presentation with the file name PresenterName_ReviewerID.txt.  The presentation slides will be made available on TopHat immediately at the end of class.  Please review [tips for writing a good review]({{site.baseurl}}/review_tips).
+Fill in an anonymous peer review form for 5 presenters assigned to you.  Please use the [Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The form should be submitted to courseweb by **Sunday midnight** the day after the presentation with the file name PresenterName_ReviewerID.txt.  The presentation slides will be made available on TopHat immediately at the end of class.  Please review [tips for writing a good review]({{site.baseurl}}/review_tips).
 
 On the form is a reviewer ID.  You should have gotten your individual reviewer IDs by email.  Check the [Peer Review Assignments]({{site.baseurl}}/internships/review_assignments_public.pdf) for the 5 presenters assigned to each reviewer ID.
 
@@ -40,7 +40,7 @@ On the form is also an Overall Score.  The median of the 5 peer review Overall S
 
 ## Attendance
 
-Just like any class, you are expected to attend regularly.  Please notify me at least 2 days beforehand if you have a valid excuse for missing a class.  Otherwise, if you miss class due to an emergency (medical or family), please send me documentation of the event.  If you have *more than 3 unexcused absences, you will fail the class*.
+Just like any class, you are expected to attend regularly.  Please notify me at least **2 days beforehand** if you have a valid excuse for missing a class.  Otherwise, if you miss class due to an emergency (medical or family), please send me documentation of the event.  If you have **more than 3 unexcused absences, you will fail the class**.
 
 ## Class Resources
 
