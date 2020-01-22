@@ -43,7 +43,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 8 (28 FEB)
 
-* James Kaatz
+* Wesley Michalski
 * Joshua Spisak
 
 ## WEEK 9 (6 MAR)
