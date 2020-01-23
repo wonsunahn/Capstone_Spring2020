@@ -58,7 +58,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 11 (20 MAR)
 
 * Riley Bean  
-* Yuxin Zhang
+* Tianyi Li
 
 ## WEEK 12 (27 MAR)
 
@@ -68,7 +68,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 13 (3 APR)
 
 * Praneeth Sangani
-* Tianyi Li
+* Yuxin Zhang
 
 ## WEEK 14 (10 APR)
 
