@@ -36,7 +36,9 @@ Fill in an anonymous peer review form for 5 presenters assigned to you.  Please 
 
 On the form is a reviewer ID.  You should have gotten your individual reviewer IDs by email.  Check the [Peer Review Assignments]({{site.baseurl}}/internships/review_assignments_public.pdf) for the 5 presenters assigned to each reviewer ID.
 
-On the form is also an Overall Score.  The median of the 5 peer review Overall Scores will be recorded in the Presentation Score of the presenter on courseweb.  Also the presenter will get all the reviews + instructor's comments by email during the week following the presentation.  Note that the median score and peer reviews *will not impact on the presenter's grade*.  You can give honest feedback and scores without feeling guilty about lowering your friend's grade.  The instructor will make the final determination on the quality of the presentation.  If the instructor determines that the presentation had a serious problem, the email to the presenter will explicitly say so and the presenter may be asked to give a second private presentation to the instructor.
+On the form is also an Overall Score.  The median of the 5 peer review Overall Scores will be recorded in the Presentation Score of the presenter on courseweb on the week following the presentation (at least by Wednesday).  Note that the median score and peer reviews *will not impact on the presenter's grade*.  You can give honest feedback and scores without feeling guilty about lowering your friend's grade.  The instructor will make the final determination on the quality of the presentation.
+
+Also, on the Feedback to Learner for the Presentation Score will be a Google Drive link to a folder that contains all the peer reviews + instructor's review (file name: "instructor_review").  If the instructor determines that the presentation had a serious problem, the Feedback to Learner will explicitly say so and the presenter will get an email asking him/her to give a second private presentation to the instructor.
 
 ## Attendance
 
