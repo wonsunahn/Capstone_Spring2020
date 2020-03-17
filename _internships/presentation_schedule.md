@@ -4,7 +4,16 @@ title: CS 1900/1950 Presentation Schedule
 permalink: /internship_presentation_schedule
 ---
 
-Note: There will be a maximum of NINE internship/research presentations per class. Internship presentations should be five minutes long sharp.  I will cut you off at exactly five minutes.  Don't forget to send me your slides by the previous day midnight.
+Due to COVID-19 all presentations will be given over Microsoft Teams going forward.
+
+
+A short tutorial on how to join a presentation:
+https://support.office.com/en-us/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4
+
+A short tutorial on how to share your slides when giving your presentation:
+https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7
+
+Don't forget to send me your slides by the previous day midnight.
 
 The presentations will be given in the order they are listed on the particular date.
 
@@ -57,13 +66,14 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 11 (20 MAR)
 
-* Riley Bean  
-* Tianyi Li
+* NO PRESENTATIONS
 
 ## WEEK 12 (27 MAR)
 
-* Benjamin Nathanson
-* James Pickering
+* Riley Bean (12:00 - 12:25)  
+* Tianyi Li (12:25 - 12:50)
+* Benjamin Nathanson (1:00 - 1:25)
+* James Pickering (1:25 - 1:50)
 
 ## WEEK 13 (3 APR)
 
